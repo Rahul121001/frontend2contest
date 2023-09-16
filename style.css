@@ -1,0 +1,18 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #7e7e7ea1;
+}
+button{
+    padding: 25px;
+    margin: 25px;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.279);
+    color: white;
+}
+body{
+    text-align: center;
+}
